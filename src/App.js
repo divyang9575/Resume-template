@@ -67,7 +67,7 @@ function App() {
         <div className="h-[60rem] w-[60rem] bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 rounded-full absolute top-96 -left-20 transform rotate-180 animate-pulse"></div>
         ``````
         <Tilt>
-          <div className=" text-xl container h-[45rem] w-[40rem] text-white bg-white bg-opacity-10 rounded-2xl shadow-5xl relative z-2 border border-opacity-30 border-r-0 border-b-0 backdrop-filter backdrop-blur-sm">
+          <div className=" text-xl container h-[35rem] w-[40rem] text-white bg-white bg-opacity-10 rounded-2xl shadow-5xl relative z-2 border border-opacity-30 border-r-0 border-b-0 backdrop-filter backdrop-blur-sm">
             <div className="name text-white flex justify-between m-2">
               <div className="names my-2">
                 <div className="fname ">Divyang</div>{" "}
