@@ -67,20 +67,20 @@ function App() {
         <div className="h-[60rem] w-[60rem] bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 rounded-full absolute top-96 -left-20 transform rotate-180 animate-pulse"></div>
         ``````
         <Tilt>
-          <div className=" text-xl container h-[35rem] w-[32rem] text-white bg-white bg-opacity-10 rounded-2xl shadow-5xl relative z-2 border border-opacity-30 border-r-0 border-b-0 backdrop-filter backdrop-blur-sm">
-            <div className="name text-white flex justify-between m-2">
+          <div className=" text-lg container h-[35rem] w-[32rem] text-white bg-white bg-opacity-10 rounded-2xl shadow-5xl relative z-2 border border-opacity-30 border-r-0 border-b-0 backdrop-filter backdrop-blur-sm">
+            <div className="name text-white flex justify-between mx-2 my-1">
               <div className="names my-1">
                 <div className="fname ">Divyang</div>{" "}
                 <div className="lname">Sharma</div>
               </div>
-              <div className="address text-xs my-1">
+              <div className="address text-xs my-0">
                 <div className="phone">Phone: 9713710727</div>
                 <div className="email">Email: divyang9575@gmail.com</div>
                 <div className="linkedin">Linkedin.com</div>
               </div>
             </div>
             <hr />
-            <div className="education text-bold mx-2 my-1">
+            <div className="education text-bold mx-2 my-0">
               &rarr; Education
             </div>
             <div className="edudetail ">
@@ -88,7 +88,7 @@ function App() {
               <div className="">School-</div>
             </div>
             <hr />
-            <div className="education text-bold mx-2 my-1">
+            <div className="education text-bold mx-2 my-0">
               &rarr; Experience
             </div>
             <div className="edudetail ">
@@ -96,7 +96,7 @@ function App() {
               <div className="">Title-</div>
             </div>
             <hr />
-            <div className="education text-bold mx-2 my-1">&rarr; Skills</div>
+            <div className="education text-bold mx-2 my-0">&rarr; Skills</div>
             <div className="edudetail ">
               <div className="">Skill 1-</div>
               <div className="">Skill 2-</div>
@@ -104,7 +104,7 @@ function App() {
               <div className="">Skill 4-</div>
             </div>
             <hr />
-            <div className="education text-bold mx-2 my-1">
+            <div className="education text-bold mx-2 my-0">
               &rarr; Activities
             </div>
             <div className="edudetail ">
